@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Roberts!
+💻 I am a Software Developer and I love what I do!
+🎓 I am always learning and evolving my skills.
+🖥 I am skilled in C#, JavaScript, SQL, .NET, Git, Unit Testing, Clean Coding.
 <!--
 **RobertsLasis/RobertsLasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
