@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Roberts!
 
 💻 I am a Software Developer and I love what I do!
+
 🎓 I am always learning and evolving my skills.
 🖥 I am skilled in C#, JavaScript, SQL, .NET, Git, Unit Testing, Clean Coding.
 <!--
