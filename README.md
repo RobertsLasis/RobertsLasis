@@ -6,7 +6,7 @@
 
 🖥 I am skilled in C#, JavaScript, SQL, .NET, Git, Unit Testing, Clean Coding.
 
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="JavaScript Logo" width="50" height="50"/>
 <!--
 **RobertsLasis/RobertsLasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
