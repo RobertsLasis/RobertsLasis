@@ -5,6 +5,7 @@
 🎓 I am always learning and evolving my skills.
 
 🖥 I am skilled in C#, JavaScript, SQL, .NET, Git, Unit Testing, Clean Coding.
+https://worldvectorlogo.com/logo/c--4
 <!--
 **RobertsLasis/RobertsLasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
